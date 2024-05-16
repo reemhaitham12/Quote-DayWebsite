@@ -44,13 +44,12 @@ body {
     margin-top: 50px;
 }
 
-.card-quote .button-area {
+.card-quote .button-area{
     padding: 35px 0;
 }
 
-.card-quote .button-area button {
+/* .card-quote .button-area button{
     position: absolute;
-    background-color: #ffac1c;
     border-radius: 15px;
     cursor: pointer;
     padding-inline: 15px;
@@ -59,6 +58,9 @@ body {
     font-weight: 500;
     font-style: italic;
     bottom: 25px;
+} */
+.text-color{
+    color: #ff7400;
 }
 
 @media (min-width:200px) and (max-width:770px){
