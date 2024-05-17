@@ -1,8 +1,8 @@
 const quotes = [
     {
-        quote: `“Never trust anyone who has not brought a book with them.”`,
-        writer: `- Lemony Snicket`,
-        photo:`./image/image14.jpg`
+        quote: `“It does not do to dwell on dreams and forget to live.”`,
+        writer: `- J.K. Rowling`,
+        photo:`./image/image17.jpg`
     },
     {
         quote: `“A room without books is like a body without a soul.”`,
