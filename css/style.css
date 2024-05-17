@@ -50,9 +50,10 @@ body {
     margin-top: 40px;
 }
 
-.card-quote .button-area{
+/* .card-quote .button-area{
     padding: 35px 0;
-}
+    
+} */
 
 /* .card-quote .button-area button{
     position: absolute;
@@ -81,16 +82,25 @@ body {
         position: relative;
     }
     .card-quote .writer-personal h3 {
+        font-size: 25px;
         text-align: center;
         color: #ff7400;
         font-family: "Lato", sans-serif;
         /* font-weight: 100; */
         font-style: normal;
         /* margin-top: 15px; */
+        margin-top: 5px;
     }
     .image-personal{
         position:absolute;
         bottom: -10%;
-        left: 40%;
+        left: 41%;
+    }
+    .card-quote .text-area h4 {
+        /* margin-top: 10px; */
+        line-height: 1.5;
+        font-family: "Merriweather", serif;
+        font-weight: 100;
+        font-style: normal;
     }
 }
