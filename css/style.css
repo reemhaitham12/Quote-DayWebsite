@@ -10,11 +10,17 @@ body {
 
 }
 
-/* .image-writer img {
-    width: 100px;
-    border-radius: 15px;
-    box-shadow: 0 25px 31px rgba(0, 0, 0, 0.5);
-} */
+.image-personal img {
+    width: 90px;
+    /* height: 90px; */
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.image-personal{
+    position:absolute;
+    bottom: -10%;
+    left: 43%;
+}
 
 .card-quote {
     width: 50%;
@@ -41,7 +47,7 @@ body {
     font-family: "Lato", sans-serif;
     /* font-weight: 100; */
     font-style: normal;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .card-quote .button-area{
@@ -81,5 +87,10 @@ body {
         /* font-weight: 100; */
         font-style: normal;
         /* margin-top: 15px; */
+    }
+    .image-personal{
+        position:absolute;
+        bottom: -10%;
+        left: 40%;
     }
 }
